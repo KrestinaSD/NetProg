@@ -1,0 +1,4 @@
+*.o 
+*.origin
+daytime_client 
+echo_server
